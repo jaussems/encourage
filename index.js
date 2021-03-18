@@ -1,0 +1,1 @@
+console.log("It's gonan be hard, but it's gonna be worth it in the end :) Take it day by day, and be open to learning something new.")
